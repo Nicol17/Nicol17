@@ -7,9 +7,6 @@
 &nbsp; <br> [![Spotify](https://spotify-now-nicol17.vercel.app/api/spotify)](https://open.spotify.com/user/111981517)
   </table>
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/nicolaslluesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolaslluesa" height="30" width="40" /></a>
