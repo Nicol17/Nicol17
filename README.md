@@ -2,10 +2,10 @@
 <h3 align="center">A passionate frontend developer from Spain</h3>
 <br />
 
-<table width="100%"> 
+<!-- <table width="100%"> 
   <tr>
 &nbsp; Now Listening: <br> [![Spotify](https://nicol17.vercel.app/api/spotify)](https://open.spotify.com/user/111981517)
-  </table>
+  </table> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
